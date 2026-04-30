@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Anime_Catalog</string>
+    <string name="TheFinals1">Death Note</string>
+    <string name="TheFinals2">Attack on Titan</string>
+    <string name="TheFinals3">Naruto</string>
+    <string name="TheFinals4">One Piece</string>
+    <string name="TheFinals5">Demon Slayer</string>
+    <string name="TheFinals6">My Hero Academia</string>
+    <string name="TheFinals7">Sword Art Online</string>
+    <string name="TheFinals8">Fullmetal Alchemist: Brotherhood</string>
+    <string name="TheFinals9">Tokyo Ghoul</string>
+    <string name="TheFinals10">Steins;Gate</string>
+    
+    <string name="anime1_description">Гениальный студент находит таинственную тетрадь смерти и решает создать идеальный мир.</string>
+    <string name="anime2_description">Человечество борется за выживание против гигантских титанов, пожирающих людей.</string>
+    <string name="anime3_description">История молодого ниндзя Наруто, мечтающего стать Хокаге своей деревни.</string>
+    <string name="anime4_description">Приключения Луффи и его пиратской команды в поисках легендарного сокровища.</string>
+    <string name="anime5_description">Танджиро сражается с демонами, чтобы спасти свою сестру и отомстить за семью.</string>
+    <string name="anime6_description">В мире супергероев подросток без способностей мечтает стать величайшим героем.</string>
+    <string name="anime7_description">Игроки оказываются в ловушке виртуальной реальности, где смерть в игре означает смерть в реальности.</string>
+    <string name="anime8_description">Два брата-алхимика ищут философский камень, чтобы вернуть утраченные тела.</string>
+    <string name="anime9_description">Студент Канеки превращается в полу-гуля после трагического инцидента.</string>
+    <string name="anime10_description">Ученый случайно изобретает машину времени и сталкивается с последствиями.</string>
+</resources>
