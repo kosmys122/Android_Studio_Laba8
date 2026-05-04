@@ -91,9 +91,9 @@ fun AnimeCardPreview(){
     Anime_CatalogTheme{
         AnimeCard(
             Anime(
-                R.string.TheFinals1,
+                R.string.thefinals1,
                 R.string.anime1_description,
-                R.drawable.TheFinals1
+                R.drawable.thefinals1
             )
         )
     }

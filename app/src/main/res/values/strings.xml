@@ -1,15 +1,15 @@
 <resources>
     <string name="app_name">Anime_Catalog</string>
-    <string name="TheFinals1">Death Note</string>
-    <string name="TheFinals2">Attack on Titan</string>
-    <string name="TheFinals3">Naruto</string>
-    <string name="TheFinals4">One Piece</string>
-    <string name="TheFinals5">Demon Slayer</string>
-    <string name="TheFinals6">My Hero Academia</string>
-    <string name="TheFinals7">Sword Art Online</string>
-    <string name="TheFinals8">Fullmetal Alchemist: Brotherhood</string>
-    <string name="TheFinals9">Tokyo Ghoul</string>
-    <string name="TheFinals10">Steins;Gate</string>
+    <string name="thefinals1">Death Note</string>
+    <string name="thefinals2">Attack on Titan</string>
+    <string name="thefinals3">Naruto</string>
+    <string name="thefinals4">One Piece</string>
+    <string name="thefinals5">Demon Slayer</string>
+    <string name="thefinals6">My Hero Academia</string>
+    <string name="thefinals7">Sword Art Online</string>
+    <string name="thefinals8">Fullmetal Alchemist: Brotherhood</string>
+    <string name="thefinals9">Tokyo Ghoul</string>
+    <string name="thefinals10">Steins;Gate</string>
     
     <string name="anime1_description">Гениальный студент находит таинственную тетрадь смерти и решает создать идеальный мир.</string>
     <string name="anime2_description">Человечество борется за выживание против гигантских титанов, пожирающих людей.</string>
