@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Anime_Catalog</string>
+    <string name="app_name">Finals_Catalog</string>
     <string name="thefinals1">Death Note</string>
     <string name="thefinals2">Attack on Titan</string>
     <string name="thefinals3">Naruto</string>
@@ -21,4 +21,71 @@
     <string name="anime8_description">Два брата-алхимика ищут философский камень, чтобы вернуть утраченные тела.</string>
     <string name="anime9_description">Студент Канеки превращается в полу-гуля после трагического инцидента.</string>
     <string name="anime10_description">Ученый случайно изобретает машину времени и сталкивается с последствиями.</string>
+
+    <string name="ape_squad">ApeSquad</string>
+    <string name="asiatoshka">Азиаточка</string>
+    <string name="camera_men">Камера мен</string>
+    <string name="cns_skin">CNS skin</string>
+    <string name="cns_sponsor">CNS sponsor</string>
+    <string name="cuwboy">Кавбой</string>
+    <string name="cyber_asiatka">Кибер азиатка</string>
+    <string name="djoker">Джокер</string>
+    <string name="iseult">ISEULT</string>
+    <string name="iseult_sonsor1">ISEULT sponsor1</string>
+    <string name="iseunlt_sonsor2">ISEULT sponsor2</string>
+    <string name="jester">Шут</string>
+    <string name="kiber">Киборг</string>
+    <string name="krasavshik">Красавчик</string>
+    <string name="mu_tyt_ne_prihem">Мы тут не причём</string>
+    <string name="ninza">Черепашка-нинзя</string>
+    <string name="ospouse_sponcor">OSPOUSE sponsor</string>
+    <string name="profi">Про</string>
+    <string name="s1_event">S1 event</string>
+    <string name="samurai">Самурай</string>
+    <string name="santa">Санта</string>
+    <string name="shesh">Оперативник</string>
+    <string name="tv_men">TV men</string>
+    <string name="tv_men2">TV men2.0</string>
+    <string name="usa_fotball">Нападающий</string>
+    <string name="vaiiya">VAIIYA</string>
+    <string name="winter_skin">Зимний вайб</string>
+    <string name="women">Вумен</string>
+    <string name="zaika">Зайка</string>
+    <string name="zevs">Зевс</string>
+
+
+
+    <string name="ape_squad_description">Скин команды ASE_squad которая участвовала на мажоре 2025. Персонаж: Медиум</string>
+    <string name="asiatoshka_description">Скин азиаточки из 9 сезона. Персонаж: Лайт</string>
+    <string name="camera_men_description">Ультимейтный скин камеры из 7 сезона. Персонаж: Лайт</string>
+    <string name="cns_skin_description">Скин CNS из 2 сезона. Персонаж: Хеви</string>
+    <string name="cns_sponsor_description">Спонсорский скин CNS из 7 сезона. Персонаж: Медиум</string>
+    <string name="cuwboy_description">Скин кавбоя полученый из ивента в конце первого сезона. Персонаж: Медиум</string>
+    <string name="cyber_asiatka_description">Ультимейтный скин кибер-азиатки из 7 сезона. Персонаж: Медиум</string>
+    <string name="djoker_description">Скин джокера сделаный самостоятельно. Персонаж: Медиум</string>
+    <string name="iseult_description">Скин из вещей ISEULT сделай самостоятельно. Персонаж: Лайт</string>
+    <string name="iseult_sonsor1_description">Спонсорский скин ISEULT. Персонаж: Медиум</string>
+    <string name="iseunlt_sonsor2_description">Второй спонсорский скин ISEULT. Персонаж: Медиум</string>
+    <string name="jester_description">Скин шута сделан самостоятельно. Персонаж: Лайт</string>
+    <string name="kiber_description">Скин киборга сделат по приколу. Персонаж: Хеви</string>
+    <string name="krasavshik_description">Самый любимый скин сделаный из вещей которые эксклюзивно раздавались в втором сезоне. Персонаж: Медиум</string>
+    <string name="mu_tyt_ne_prihem_description">Совсем не понимаем незнаем чё о чём. Персонаж: Хеви</string>
+    <string name="ninza_description">Скин черепашки-ниньзя сделан самостоятельно. Персонаж: Хеви</string>
+    <string name="ospouse_sponcor_description">Спонсорский скин OSPOUSE. Персонаж: Медиум</string>
+    <string name="profi_description">Скин профессионала сделаный самостоятельно причиной скина стала классная худи которая раздаваласть на Twitck drops. Персонаж: Хеви</string>
+    <string name="s1_event_description">Скин с эвента первого сезона. Персонаж: Лайт</string>
+    <string name="samurai_description">Скин самурая из второго сезона. Персонаж: Лайт</string>
+    <string name="santa_description">Скин санты сделан самостоятельно. Персонаж: Хеви</string>
+    <string name="shesh_description">Скин оперативника из четвёртого сезона. Персонаж: Медиум</string>
+    <string name="tv_men_description">Скин телевизора из второго сезона. Персонаж: Медиум</string>
+    <string name="tv_men2_description">Скин телевизора2.0 из седьмого сезона. Персонаж: Хеви</string>
+    <string name="usa_fotball_description">Скин нападающего из шестого сезона. Персонаж: Медиум</string>
+    <string name="vaiiya_description">Скин VAIIYA сделаный самостоятельно. Персонаж: Медиум</string>
+    <string name="winter_skin_description">Зимний скин сделаный самостоятельно. Персонаж: Медиум</string>
+    <string name="women_description">Скин Вумен. Персонаж: Лайт</string>
+    <string name="zaika_description">Скин зайки полученый из пасхального эвента. Персонаж: Хеви</string>
+    <string name="zevs_description">Скин зевса сделаный самостоятельно. Персонаж: Хеви</string>
+
+
+
 </resources>
